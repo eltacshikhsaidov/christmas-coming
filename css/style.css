@@ -1,0 +1,17 @@
+body{
+    background: #f6f6f6;
+}
+
+.countdownContainer{
+    position: absolute;
+    top: 33%;
+    left: 33%;
+    background: #ddd;
+    border: 1px solid #999;
+    padding: 10px;
+    box-shadow: 0 0 5px 3px #ccc;
+}
+
+.info{
+    font-size: 80px;
+}
